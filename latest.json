@@ -1,5 +1,5 @@
 {
-  "ver": "1.0",
+  "ver": "1.1",
   "url": "https://cdn.jsdelivr.net/gh/yusanbai12112/mengwo@main/mw-app.apk",
-  "note": "首个正式版：公共场合玩法、更新源换成 GitHub（Gitee 把仓库封了）"
+  "note": "1.1：公共场合大改（动作分类、解锁后不再锁上、分段限速、搭话按场合来、呻吟与心里话写法）；密室数值与人称规则；梦我开屏动画（设置里可换背景图）"
 }
