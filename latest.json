@@ -1,1 +1,5 @@
-{"ver": "1.0", "url": "https://cdn.jsdelivr.net/gh/yusanbai12112/mengwo@main/mw-app.apk", "force": false, "note": "首个正式版"}
+{
+  "ver": "1.0",
+  "url": "https://cdn.jsdelivr.net/gh/yusanbai12112/mengwo@main/mw-app.apk",
+  "note": "首个正式版：公共场合玩法、更新源换成 GitHub（Gitee 把仓库封了）"
+}
