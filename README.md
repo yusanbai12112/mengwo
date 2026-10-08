@@ -1,2 +1,1 @@
-# mengwo
-mengwo app release
+mengwo release
