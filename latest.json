@@ -1,6 +1,6 @@
 {
   "ver": "1.1.6",
-  "url": "https://cdn.jsdelivr.net/gh/yusanbai12112/mengwo@main/mw-app.apk",
+  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yusanbai12112/mengwo/main/mw-app.apk",
   "note": "· 新玩法「积分猜猜乐」：每天开六个号，你自己挑六个两位数买，中几个给几档奖；每天最多买五条、每条最多十注\n· 每天开屏会摇奖：买过号的话，第二天打开先给你摇一遍，中了放礼花\n· 兑换码新增「次数码」：兑到的建卡次数永久有效，兑的时候自己选加到密室还是公共\n· 密室和公共第一次进去会有玩法指引\n· 设置里的「接口」能折叠了（填过 Key 就收起来，点一下展开）\n· 修了几个小毛病：18+ 开关显示不出来、粘贴 Key 带全角字符会失效、报错提示改成中文",
   "now": "20261010"
 }
