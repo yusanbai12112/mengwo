@@ -1,7 +1,7 @@
 {
-  "ver": "1.5.3",
-  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yusanbai12112/mengwo/main/mw-app-45f104.apk",
+  "ver": "1.5.4",
+  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yusanbai12112/mengwo/main/mw-app-d1f645.apk",
   "note": "· 包里不再带任何 API Key，两家（DeepSeek / GLM-5.3-Flash）改成从本机继承上次填过的\n· 管理页面点一下就能在两家之间切；如果某一家显示「还没有 Key」，把那一家的 Key 粘一次就行，之后一直记得\n· 修了模型名每次启动被改回 deepseek-chat 的问题（选 GLM 不会再被覆盖）\n· 创建页改成主界面里的一页，底栏五个都在；点卡种才进编辑页，左滑回到选卡种那页\n· 公共卡不再显示初始三值和身体敏感度（只属于密室）\n· 敏感度和三值改成先按人设推理再给数字，不再套区间和参考档位\n· 人味规则再加一版：故意的不完美、允许重复、句长拉开、少用连词\n· 禁掉「谈条件」式说话：给我个准话 / 我先说清楚 / 是…是…还是… / 丑话在前 / 你要是玩玩的",
   "now": "20261022",
-  "apk": "mw-app-45f104.apk"
+  "apk": "mw-app-d1f645.apk"
 }
